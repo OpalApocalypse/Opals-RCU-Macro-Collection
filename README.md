@@ -12,4 +12,4 @@
 
 ### Outdated / For-Specific-Updates
 [Anniversary-Card-Game](https://github.com/OpalApocalypse/RCU-Anniversary-Card-Game-Macro)<br>
-> Change, Remove, or Add Charms to all pets. Uses Chisel or Hammer.<br>
+> Quickly did the card game for the 1-Year Anniversary mini-game.<br>
