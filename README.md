@@ -7,10 +7,9 @@
 [Tree Cutting Macro](https://github.com/OpalApocalypse/RCU-Tree-Cutting-Macro)<br>
 > Only farms Zone 1 at the moment. Not perfect, but works. All zones are to-be-added, WIP.<br>
 
-### WIP
 [Leaderboard-Extrapolation ](https://github.com/OpalApocalypse/RCU-Leaderboard-Extrapolation)<br>
 > Since there's no API, I'm trying (and partly succeeding) at an Image-to-Text method.<br>
 
-### Redundant
+### Outdated / For-Specific-Updates
 [Anniversary-Card-Game](https://github.com/OpalApocalypse/RCU-Anniversary-Card-Game-Macro)<br>
 > Change, Remove, or Add Charms to all pets. Uses Chisel or Hammer.<br>
